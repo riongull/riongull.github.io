@@ -1,3 +1,3 @@
 # Personal CV
 
-hosted through Github Pages at https://riongull.github.io
+created using Jekyll, hosted through Github Pages at https://riongull.github.io
